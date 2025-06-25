@@ -1,0 +1,14 @@
+body{
+    background-color: #FFDBDB;
+    color: #241c00;
+}
+h2{
+    color: #FE4F2D;
+}
+.texto-paragrafo{
+    color: #B03052;
+    font-size: 30px;
+}
+#nome_usuario{
+    font-weight: bold;
+}
